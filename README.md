@@ -23,6 +23,13 @@ GitHub and install it manually:
 
 Python 2.7, 3.4, 3.5 & 3.6 are supported.
 
+
+If You want to install it in Anaconda then:
+Open the Conda Prompt 
+Run the following command
+               conda install -c conda-forge tweepy 
+               
+               
 Community
 ---------
 - [Discord Chat](https://discord.gg/bJvqnhg)
